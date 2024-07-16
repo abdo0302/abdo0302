@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdelljabar hamri</h1>
-<h3 align="center">Full Stack Web Développeur Junior</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
 
 <img align="right" width="300px" src="http://abdelljabar.rf.gd/assets/images/profile.jpg" >
