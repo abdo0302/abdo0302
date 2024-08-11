@@ -7,7 +7,7 @@
 <img align="right" width="300px" src="http://abdelljabar.rf.gd/assets/images/profile.jpg" >
 
 
-- 🔭 I’m currently working on [SmartClass]([https://github.com/abdo0302/Library-Management-System-API](https://github.com/abdo0302/SmartClass))
+- 🔭 I’m currently working on [SmartClass]([https://github.com/abdo0302/Library-Management-System-API])
 
 - 🌱 I’m currently learning **vue js**
 
