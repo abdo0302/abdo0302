@@ -7,8 +7,7 @@
 <img align="right" width="300px" src="http://abdelljabar.rf.gd/assets/images/profile.jpg" >
 
 
-- 🔭 I’m currently working on <a herf='https://github.com/abdo0302/SmartClass'>SmartClass</a>
-
+- 🔭 I’m currently working on [SmartClass](hhttps://github.com/abdo0302/SmartClass)
 - 🌱 I’m currently learning **vue js**
 
 - 👨‍💻 All of my projects are available at [http://abdelljabar.rf.gd/](http://abdelljabar.rf.gd/)
